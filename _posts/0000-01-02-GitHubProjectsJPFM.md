@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**You cannot just use bolds for this tutorial**
 Use the left arrow to go back!
